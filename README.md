@@ -145,6 +145,17 @@ plt.imshow(img3)
 plt.show()
 ```
 
+```bash
+# Example usage
+gambar = imread(fname="nama.jpg")
+
+image_path = 'nama.jpg'
+character_segmentation(image_path)
+
+plt.imshow(gambar, cmap='gray')
+```
+
+
 ## Link referensi
 
 https://media.neliti.com/media/publications/323559-analisis-teknik-segmentasi-pada-pengolah-22d5da5e.pdf
