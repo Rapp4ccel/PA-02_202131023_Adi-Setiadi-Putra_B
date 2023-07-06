@@ -78,7 +78,7 @@ Konsep penting terkait kontur:
    - Deteksi Pergerakan: Dalam aplikasi pengawasan atau pengenalan gerakan, kontur digunakan untuk mendeteksi perubahan posisi atau pergerakan objek dalam citra berurutan.
 
 Pemahaman tentang kontur dan penggunaannya sangat penting dalam pengolahan citra. Dengan mengidentifikasi dan menganalisis kontur, kita dapat memperoleh informasi yang berguna tentang objek dalam citra dan mengambil tindakan yang diperlukan sesuai dengan kebutuhan aplikasi yang sedang digunakan.
-## Penjelasan Kodingan
+## Langah peyelesaian Kodingan
 
 img = cv2.imread(image_path)            
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
